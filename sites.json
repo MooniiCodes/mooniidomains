@@ -1,0 +1,10 @@
+{
+  "sites": {
+    "moonii.web": {
+      "forward": true
+      "httpsforwarduri": "google.com"
+      "accessible": true
+      "blacklisted": false
+    }
+  }
+}
